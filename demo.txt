@@ -1,6 +1,6 @@
 Hi how are you?
 I am changing this file again.
-this is the second change that i made.
+this is edited by bug456 to demonstrate how rebase works.
 this line is deleted by bug branch.
 this is edited by master to demonstrate rebase.
 this line is added by bug branch.
