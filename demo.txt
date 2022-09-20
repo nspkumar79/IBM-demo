@@ -1,5 +1,6 @@
 Hi how are you?
 I am changing this file again.
 this is the second change that i made.
-this is the change made by remote.
+this line is deleted by bug branch.
+this is added by using bug branch.
 
